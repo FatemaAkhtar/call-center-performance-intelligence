@@ -1,8 +1,8 @@
-\# 📞 Call Center Performance Intelligence Dashboard
+# 📞 Call Center Performance Intelligence Dashboard
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -18,7 +18,7 @@ The dashboard enables managers to track service levels, identify agent performan
 
 
 
-\# 🎯 Business Problem
+# 🎯 Business Problem
 
 
 
@@ -50,7 +50,7 @@ This dashboard provides a data-driven solution for answering these questions.
 
 
 
-\# 📊 Dataset
+# 📊 Dataset
 
 
 
@@ -58,7 +58,7 @@ This dashboard provides a data-driven solution for answering these questions.
 
 
 
-\### Dimensions
+### Dimensions
 
 
 
